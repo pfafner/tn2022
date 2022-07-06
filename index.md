@@ -35,7 +35,7 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
 
   **No.**  | **Fecha**    | **Tópicos**                                                                   | **Recursos**
   -------- | ------------ | ----------------------------------------------------------------------------- |  -------------------------------------
-  01       | 05.07.2022   | Introducción. Historia de la aritmética. <br/>                                | Secciones 1.1, 1.2 y 2.1 Burton.
+  01       | 05.07.2022   | Introducción. Historia de la aritmética. <br/> [Aula 01](aulas/Aula01.pdf){:target="_blank"} | Secciones 1.1, 1.2 y 2.1 Burton.
 
 
 # Referencias
