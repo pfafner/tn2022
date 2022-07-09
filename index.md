@@ -36,7 +36,7 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
   **No.**  | **Fecha**    | **Tópicos**                                                                   | **Recursos**
   -------- | ------------ | ----------------------------------------------------------------------------- |  -------------------------------------
   01       | 05.07.2022   | Introducción. Historia de la aritmética. <br/> [Aula 01](aulas/Aula01.pdf){:target="_blank"} | Secciones 1.1, 1.2 y 2.1 Burton.
-  02       | 07.07.2022   | Divisibilidad. Propiedades. <br/>  | Sección 2.2 Burton.
+  02       | 07.07.2022   | Divisibilidad. Propiedades. <br/> [Aula 02](aulas/Aula02.pdf){:target="_blank"} | Sección 2.2 Burton.
   L1       | 07.07.2022   |   | [Lista 01](listas/Lista01.pdf){:target="_blank"} <br/> **Fecha de Entrega: viernes 15 de julio.**
   
 
