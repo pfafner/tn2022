@@ -40,8 +40,9 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
   L1       | 07.07.2022   |   | [Lista 01](listas/Lista01.pdf){:target="_blank"} <br/> **Fecha de Entrega: viernes 15 de julio.**
   03       | 12.07.2022   | Algoritmo de la División. MDC y MMC. <br/> [Aula 03](aulas/Aula03.pdf){:target="_blank"} | Sección 2.3 Burton.
   04       | 14.07.2022   | Lema de Bézout. Algoritmo de Euclides. <br/> [Aula 04](aulas/Aula04.pdf){:target="_blank"} | Sección 2.3 y 2.4 Burton.  
-  05       | 19.07.2022   | El Teorema Fundamental de la Aritmética. <br/> [Aula 05](aulas/Aula05.pdf){:target="_blank"} | Secciones 2.5 y 3.1 Burton.  
+  05       | 19.07.2022   | La ecuación xa + yb = c. El Teorema Fundamental de la Aritmética. <br/> [Aula 05](aulas/Aula05.pdf){:target="_blank"} | Secciones 2.5 y 3.1 Burton.  
   L2       | 19.07.2022   |   | [Lista 02](listas/Lista02.pdf){:target="_blank"} <br/> **Fecha de Entrega: jueves 28 de julio.**
+  06       | 21.07.2022   | Números primos. Propiedades. <br/> [Aula 06](aulas/Aula06.pdf){:target="_blank"} | Secciones 3.2 y 3.3 Burton.  
   
 
 
