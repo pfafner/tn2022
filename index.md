@@ -46,7 +46,8 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
   07       | 26.07.2022   | Ternas pitagóricas. <br/> [Aula 07](aulas/Aula07.pdf){:target="_blank"}       | Secciones 1.6 y 1.7 Stillwell.
   08       | 28.07.2022   | Solución de Listas 1 y 2.                                                     |
   09       | 02.08.2022   | Congruencias. <br/>  | Burton.
-  
+  09       | 02.08.2022   | Potenciación modular. Criterios de Divisibilidad. <br/>  | Burton.
+  L3       | 02.08.2022   | [Lista 03](listas/Lista03.pdf){:target="_blank"} <br/> **Fecha de Entrega: jueves 18 de agosto.**
 
 
 # Referencias
