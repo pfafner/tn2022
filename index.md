@@ -48,7 +48,6 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
   09       | 02.08.2022   | Congruencias. <br/>  | 
   09       | 02.08.2022   | Potenciación modular. Criterios de Divisibilidad. <br/>  | 
   L3       | 02.08.2022   | [Lista 03](listas/Lista03.pdf){:target="_blank"} <br/> **Fecha de Entrega: jueves 18 de agosto.**
-  .        |              |               | 
 
 
 # Referencias
