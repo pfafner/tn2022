@@ -45,10 +45,10 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
   06       | 21.07.2022   | Números primos. Propiedades. <br/> [Aula 06](aulas/Aula06.pdf){:target="_blank"} | Secciones 3.2 y 3.3 Burton.  
   07       | 26.07.2022   | Ternas pitagóricas. <br/> [Aula 07](aulas/Aula07.pdf){:target="_blank"}       | Secciones 1.6 y 1.7 Stillwell.
   08       | 28.07.2022   | Solución de Listas 1 y 2.                                                     |
-  09       | 02.08.2022   | Congruencias. <br/> [Aula 08](aulas/Aula08.pdf){:target="_blank"} | 
-  09       | 04.08.2022   | Potenciación modular. Criterios de Divisibilidad. <br/> [Aula 09](aulas/Aula09.pdf){:target="_blank"} | 
+  09       | 02.08.2022   | Congruencias. <br/> [Aula 08](aulas/Aula08.pdf){:target="_blank"} | Burton.
+  10       | 04.08.2022   | Potenciación modular. Criterios de Divisibilidad. <br/> [Aula 09](aulas/Aula09.pdf){:target="_blank"} | 
   L3       | 04.08.2022   |  | [Lista 03](listas/Lista03.pdf){:target="_blank"} <br/> **Fecha de Entrega: jueves 18 de agosto.**
-  .        |              |  | 
+  11       | 16.08.2022   | El anillo de enteros módulo n. <br/> [Aula 10](aulas/Aula10.pdf){:target="_blank"} | Burton.
   
 
 # Referencias
