@@ -49,7 +49,10 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
   10       | 04.08.2022   | Potenciación modular. Criterios de Divisibilidad. <br/> [Aula 09](aulas/Aula09.pdf){:target="_blank"} | 
   L3       | 04.08.2022   |  | [Lista 03](listas/Lista03.pdf){:target="_blank"} <br/> **Fecha de Entrega: jueves 18 de agosto.**
   11       | 16.08.2022   | El anillo de enteros módulo n. <br/> [Aula 10](aulas/Aula10.pdf){:target="_blank"} | Burton.
-  11       | 18.08.2022   | Unidades módulo n. El teorema de Euler-Fermat. <br/>  | Burton.
+  12       | 18.08.2022   | Unidades módulo n. El teorema de Euler-Fermat. <br/>  | Burton. Sección 4.3
+  13       | 23.08.2022   | Aplicaciones. Test de Pseudo-Primalidad de Fermat. <br/>  | Sección 4.3 Burton.
+  14       | 25.08.2022   | Aplicaciones. Test de Pseudo-Primalidad de Fermat. <br/>  | Sección 4.3 Burton.
+  L4
   
 
 # Referencias
