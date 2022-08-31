@@ -51,9 +51,9 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
   11       | 16.08.2022   | El anillo de enteros módulo n. <br/> [Aula 10](aulas/Aula10.pdf){:target="_blank"} | Burton.
   12       | 18.08.2022   | Unidades módulo n. El teorema de Euler-Fermat. <br/> [Aula 11](aulas/Aula11.pdf){:target="_blank"} | Burton. Sección 4.3
   13       | 23.08.2022   | Aplicaciones. Test de Pseudo-Primalidad de Fermat. <br/> [Aula 12](aulas/Aula12.pdf){:target="_blank"} | Sección 4.3 Burton.
-  14       | 25.08.2022   | Solución de congruencias lineales. Teorema Chino. <br/>  | Sección 4.4 Burton.
+  14       | 25.08.2022   | Solución de congruencias lineales. Teorema Chino. <br/>  | Sección 4.4 Burton. <br/> Falta agregar diapositivas.
   L4       | 25.08.2022   |  | [Lista 04](listas/Lista04.pdf){:target="_blank"} <br/> **Fecha de Entrega: jueves 01 de septiembre.**
-  15       | 30.08.2022   | Teorema chino en el caso general. Aplicaciones. <br/> [Aula 14](aulas/Aula14.pdf){:target="_blank"} | Sección 4.3 Burton.
+  15       | 30.08.2022   | Teorema chino en el caso general. Aplicaciones. <br/> [Aula 14](aulas/Aula14.pdf){:target="_blank"} | Sección 4.3 Burton. <br/> Falta agregar algunas diapositivas.
   
   
 
