@@ -61,7 +61,7 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
 # Proyectos
 <div id='id-proj'/>
 
-  **No.**  | **Fecha**    | **Tópicos**                                          |  
+  **No.**  | **Fecha**    | **Tópicos**                                          |  **Recursos**
   -------- | ------------ | ---------------------------------------------------- |  -------------------------------------
   .        |              | Propuesta de temas Seminario. <br/>                  | 
   
