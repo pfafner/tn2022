@@ -58,6 +58,15 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
   17       | 08.09.2022   | Ley de reciprocidad cuadrática. | 
   
 
+# Proyectos
+<div id='id-proj'/>
+
+  **No.**  | **Fecha**    | **Tópicos**                                          |  
+  -------- | ------------ | ---------------------------------------------------- |  -------------------------------------
+  .        |              | Propuesta de temas Seminario. <br/>                  | 
+  
+
+
 # Referencias
 <div id='id-ref'/>
 
