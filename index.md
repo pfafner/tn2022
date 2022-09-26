@@ -56,7 +56,7 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
   15       | 30.08.2022   | Teorema chino en el caso general. Aplicaciones. <br/> [Aula 14](aulas/Aula14.pdf){:target="_blank"} | Sección 4.3 Burton. <br/> Falta agregar algunas diapositivas.
   16       | 06.09.2022   | Congruencias cuadráticas. Criterio de Euler. Lema de Gauss. | 
   17       | 08.09.2022   | Ley de reciprocidad cuadrática. <br/> | 
-  
+  18       | 08.09.2022   | Congruencias de orden superior. <br/> | 
 
 # Seminarios
 <div id='id-proj'/>
