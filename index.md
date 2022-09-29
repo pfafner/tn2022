@@ -55,8 +55,8 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
   L4       | 25.08.2022   |  | [Lista 04](listas/Lista04.pdf){:target="_blank"} <br/> **Fecha de Entrega: jueves 01 de septiembre.**
   15       | 30.08.2022   | Teorema chino en el caso general. Aplicaciones. <br/> [Aula 14](aulas/Aula14.pdf){:target="_blank"} | Sección 4.3 Burton. <br/> Falta agregar algunas diapositivas.
   16       | 01.09.2022   | Solución de Listas 3 y 4.                                                     |
-  17       | 06.09.2022   | Congruencias cuadráticas. Criterio de Euler. Lema de Gauss. | 
-  18       | 08.09.2022   | Ley de reciprocidad cuadrática. <br/> | 
+  17       | 06.09.2022   | Congruencias cuadráticas: Criterio de Euler. Lema de Gauss. <br/> [Aula 15](aulas/Aula15.pdf){:target="_blank"} | 
+  18       | 08.09.2022   | Ley de reciprocidad cuadrática. <br/> [Aula 14](aulas/Aula16.pdf){:target="_blank"} | 
   19       | 08.09.2022   | Congruencias de orden superior. <br/> | 
 
 # Seminarios
