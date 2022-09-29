@@ -57,7 +57,9 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
   16       | 01.09.2022   | Solución de Listas 3 y 4.                                                     |
   17       | 06.09.2022   | Congruencias cuadráticas: Criterio de Euler. Lema de Gauss. <br/> [Aula 15](aulas/Aula15.pdf){:target="_blank"} | 
   18       | 08.09.2022   | Ley de reciprocidad cuadrática. <br/> [Aula 16](aulas/Aula16.pdf){:target="_blank"} | 
-  19       | 08.09.2022   | Congruencias de orden superior: Lema de Hensel. <br/> [Aula 17](aulas/Aula17.pdf){:target="_blank"} | 
+  19       | 20.09.2022   | Congruencias de orden superior: Lema de Hensel. <br/> [Aula 17](aulas/Aula17.pdf){:target="_blank"} | 
+  19       | 22.09.2022   | Congruencias de orden superior: Lema de Hensel. <br/> [Aula 17](aulas/Aula17.pdf){:target="_blank"} | 
+  19       | 28.09.2022   | Congruencias de orden superior: Lema de Hensel. <br/> [Aula 17](aulas/Aula17.pdf){:target="_blank"} | 
 
 # Seminarios
 <div id='id-proj'/>
