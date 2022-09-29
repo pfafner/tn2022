@@ -59,8 +59,8 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
   18       | 08.09.2022   | Ley de reciprocidad cuadrática. <br/> [Aula 16](aulas/Aula16.pdf){:target="_blank"} | 
   19       | 20.09.2022   | Congruencias de orden superior: Lema de Hensel. <br/> [Aula 17](aulas/Aula17.pdf){:target="_blank"} | 
   20       | 22.09.2022   | El Método *rho* de Pollard para factoración. <br/> | 
-  21       | 28.09.2022   | Orden y raíces primitivas. <br/> [Aula 19](aulas/Aula19.pdf){:target="_blank"} | 
-
+  21       | 27.09.2022   | Orden y raíces primitivas. <br/> [Aula 19](aulas/Aula19.pdf){:target="_blank"} | 
+  L4       | 29.09.2022   |  | [Lista 05](listas/Lista05.pdf){:target="_blank"} <br/> **Fecha de Entrega: jueves 20 de octubre.**
 
 # Seminarios
 <div id='id-proj'/>
