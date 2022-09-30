@@ -63,7 +63,23 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
   L4       | 29.09.2022   |  | [Lista 05](listas/Lista05.pdf){:target="_blank"} <br/> **Fecha de Entrega: jueves 20 de octubre.**
 
 
-# Seminarios
+# Seminario 1
+<div id='id-semi'/>
+
+El seminario 1 tiene como objetivo presentar algunos temas del curso: Fracciones continuas, Ecuaciones Diofantinas.
+### Fechas importantes:
+
+  **No.**  | **Fecha**    |  **Tema**                                          | **Material**
+  -------- | ------------ | -------------------------------------------------- | ---------------------------------------
+  1        | 06.10.2022   | Fracciones continuas: Hurwitz-Markov.              | [Diapositivas 2021](pfafner.github.io/tn2021/aulas/Aula19.pdf){:target="_blank"}
+  2        | 11.10.2022   | Fracciones de Farey.                               | [Diapositivas 2021](pfafner.github.io/tn2021/aulas/Aula20.pdf){:target="_blank"}
+  3        | 13.10.2022   | Ecuaciones Diofantinas I: Eq. de Legendre.         | [Diapositivas 2021](pfafner.github.io/tn2021/aulas/Aula21.pdf){:target="_blank"}
+  4        | 18.10.2022   | Ecuaciones Diofantinas I: Eq. de Pell.             | [Diapositivas 2021](pfafner.github.io/tn2021/aulas/Aula22.pdf){:target="_blank"}
+  5        | 25.10.2022   | Ecuaciones Diofantinas I: Sumas de Cuadrados.      | [Diapositivas 2021](pfafner.github.io/tn2021/aulas/Aula23.pdf){:target="_blank"}
+
+
+
+# Seminario 2
 <div id='id-proj'/>
 
 A continuación se listan algunos temas sugeridos para presentación de seminarios. [Temas-seminario.pdf](projects/Temas_proyecto.pdf){:target="_blank"}
