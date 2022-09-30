@@ -71,11 +71,11 @@ El seminario 1 tiene como objetivo presentar algunos temas del curso: Fracciones
 
   **No.**  | **Fecha**    |  **Tema**                                          | **Material**
   -------- | ------------ | -------------------------------------------------- | ---------------------------------------
-  1        | 06.10.2022   | Fracciones continuas: Hurwitz-Markov.              | [Diapositivas 2021](pfafner.github.io/tn2021/aulas/Aula19.pdf){:target="_blank"}
-  2        | 11.10.2022   | Fracciones de Farey.                               | [Diapositivas 2021](pfafner.github.io/tn2021/aulas/Aula20.pdf){:target="_blank"}
-  3        | 13.10.2022   | Ecuaciones Diofantinas I: Eq. de Legendre.         | [Diapositivas 2021](pfafner.github.io/tn2021/aulas/Aula21.pdf){:target="_blank"}
-  4        | 18.10.2022   | Ecuaciones Diofantinas I: Eq. de Pell.             | [Diapositivas 2021](pfafner.github.io/tn2021/aulas/Aula22.pdf){:target="_blank"}
-  5        | 25.10.2022   | Ecuaciones Diofantinas I: Sumas de Cuadrados.      | [Diapositivas 2021](pfafner.github.io/tn2021/aulas/Aula23.pdf){:target="_blank"}
+  1        | 06.10.2022   | Fracciones continuas: Hurwitz-Markov.              | [Diapositivas 2021](https://pfafner.github.io/tn2021/aulas/Aula19.pdf){:target="_blank"}
+  2        | 11.10.2022   | Fracciones de Farey.                               | [Diapositivas 2021](https://pfafner.github.io/tn2021/aulas/Aula20.pdf){:target="_blank"}
+  3        | 13.10.2022   | Ecuaciones Diofantinas I: Eq. de Legendre.         | [Diapositivas 2021](https://pfafner.github.io/tn2021/aulas/Aula21.pdf){:target="_blank"}
+  4        | 18.10.2022   | Ecuaciones Diofantinas I: Eq. de Pell.             | [Diapositivas 2021](https://pfafner.github.io/tn2021/aulas/Aula22.pdf){:target="_blank"}
+  5        | 25.10.2022   | Ecuaciones Diofantinas I: Sumas de Cuadrados.      | [Diapositivas 2021](https://pfafner.github.io/tn2021/aulas/Aula23.pdf){:target="_blank"}
 
 
 
