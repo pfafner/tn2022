@@ -62,18 +62,11 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
   21       | 27.09.2022   | Orden y raíces primitivas. <br/> [Aula 19](aulas/Aula19.pdf){:target="_blank"} | 
   L4       | 29.09.2022   |  | [Lista 05](listas/Lista05.pdf){:target="_blank"} <br/> **Fecha de Entrega: jueves 20 de octubre.**
 
+
 # Seminarios
 <div id='id-proj'/>
 
-  **No.**  | **Fecha**    | **Tópicos**                                          |  **Recursos**
-  -------- | ------------ | ---------------------------------------------------- |  -------------------------------------
-  .        |              | Propuesta de temas Seminario. <br/>                  | 
-  
-
-# Temas Seminarios
-
 A continuación se listan algunos temas sugeridos para presentación de seminarios. [Temas-seminario.pdf](projects/Temas_proyecto.pdf){:target="_blank"}
-
 
 ### Fechas importantes:
 
