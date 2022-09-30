@@ -70,6 +70,20 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
   .        |              | Propuesta de temas Seminario. <br/>                  | 
   
 
+# Temas Seminarios
+
+A continuación se listan algunos temas sugeridos para presentación de seminarios. [Temas-seminario.pdf](projects/Temas_proyecto.pdf){:target="_blank"}
+
+
+### Fechas importantes:
+
+  **No.**  | **Fecha**       |  .
+  -------- | --------------- | ---------------------------------------------------
+  1        | 27.10.2022      | Elección de tema.
+  2        | 18.11.2022      | Entrega de presentación y reporte (borrador).
+  3        | 21-25.11.2022   | Presentación de Seminarios.
+  4        | 27.11.2022      | Entrega de versión final (Presentación y Reporte).
+
 
 # Referencias
 <div id='id-ref'/>
