@@ -61,7 +61,7 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
   20       | 22.09.2022   | El Método *rho* de Pollard para factoración. <br/> | 
   21       | 27.09.2022   | Orden y raíces primitivas. <br/> [Aula 19](aulas/Aula19.pdf){:target="_blank"} | 
   L4       | 29.09.2022   |  | [Lista 05](listas/Lista05.pdf){:target="_blank"} <br/> **Fecha de Entrega: jueves 20 de octubre.**
-  22       | 04.10.2022   | Fracciones Continuas. <br/>  | 
+  22       | 04.10.2022   | Fracciones Continuas. <br/> [Aula 20](aulas/Aula20.pdf){:target="_blank"} | 
 
 
 # Seminario 1
