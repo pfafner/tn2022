@@ -63,8 +63,8 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
   L4       | 29.09.2022   |  | [Lista 05](listas/Lista05.pdf){:target="_blank"} <br/> **Fecha de Entrega: jueves 20 de octubre.**
   22       | 04.10.2022   | Fracciones Continuas. <br/> [Aula 20](aulas/Aula20.pdf){:target="_blank"} | 
   23       | 06.10.2022   | Fracciones Continuas II. <br/>  | 
-  23       | 11.10.2022   | Fracciones de Farey. <br/>  | 
-
+  24       | 11.10.2022   | Fracciones de Farey. <br/>  | 
+  25       | 13.10.2022   | Ecuaciones Diofantinas I: Ternas pitagóricas. Ecuación de Lagrange. <br/>  | 
 
 # Seminario 1
 <div id='id-semi'/>
