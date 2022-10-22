@@ -66,6 +66,8 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
   24       | 11.10.2022   | Fracciones de Farey. <br/>  | 
   25       | 13.10.2022   | Ecuaciones Diofantinas I: Ternas pitagóricas. Ecuación de Lagrange. <br/>  | 
   26       | 18.10.2022   | Ecuaciones Diofantinas II: Ecuación de Pell. <br/>  | 
+  27       |    |    | 
+
 
 # Seminario 1
 <div id='id-semi'/>
