@@ -68,7 +68,7 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
   26       | 18.10.2022   | Ecuaciones Diofantinas II: Ecuación de Pell. <br/>  | 
   27       | 25.10.2022   | Ecuaciones Diofantinas III: Sumas de Cuadrados. <br/>   | 
   28       | 03.11.2022   | Descenso infinito. Ejemplos. <br/> Teorema de Fermat caso $n = 3$.  | 
-  29       |              |                                                 | 
+
 
 
 # Seminario 1
