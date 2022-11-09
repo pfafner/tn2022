@@ -67,7 +67,8 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
   25       | 13.10.2022   | Ecuaciones Diofantinas I: Ternas pitagóricas. Ecuación de Lagrange. <br/>  | 
   26       | 18.10.2022   | Ecuaciones Diofantinas II: Ecuación de Pell. <br/>  | 
   27       | 25.10.2022   | Ecuaciones Diofantinas III: Sumas de Cuadrados. <br/>   | 
-  28       | 03.11.2022   | Descenso infinito. Ejemplos. <br/> Teorema de Fermat caso $n = 3$.  | 
+  28       | 03.11.2022   | Descenso infinito. Ejemplos. <br/> Teorema de Fermat caso $n = 4$.  | 
+  29       | 08.11.2022   | Teorema de Fermat caso $n = 3$.  | 
 
 
 
