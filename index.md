@@ -70,6 +70,7 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
   28       | 03.11.2022   | Descenso infinito. Ejemplos. <br/> Teorema de Fermat caso $n = 4$.  | 
   29       | 08.11.2022   | Teorema de Fermat caso $n = 3$.  | 
   30       | 10.11.2022   | Enteros algebraicos. Enteros de Gauss. Enteros de Eisenstein. | 
+  31       |              |                                      | 
 
 
 # Seminario 1
