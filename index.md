@@ -72,6 +72,7 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
   30       | 10.11.2022   | Enteros algebraicos. Enteros de Gauss. Enteros de Eisenstein. | 
   31       | 15.11.2022   | Funciones aritméticas. Fórmula de inversión de Möbius.  |  
   32       | 17.11.2022   | Promedios de funciones aritméticas.                     | 
+  33       | 18.11.2022   | Distribución de números primos.                         | 
 
 
 # Seminario 1
