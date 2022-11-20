@@ -105,6 +105,16 @@ A continuación se listan algunos temas sugeridos para presentación de seminari
   3        | 21-25.11.2022   | Presentación de Seminarios.
   4        | 27.11.2022      | Entrega de versión final (Presentación y Reporte).
 
+### Temas presentados:
+
+**No.**  | **Fecha**    | **Conferencista**                  | **Tópico**                                                                    
+-------- | ------------ | ---------------------------------- | --------------------------------------------------- 
+ 1       | 22.11.2021   | Carlos Martínez                    |  El algoritmo de Karatsuba
+ 2       | 22.11.2021   | Oscar Godoy                        |  Curvas Elípticas
+ 3       | 22.11.2021   | Elder Guzmán                       |  La conjetura de Collatz ($3n + 1$)
+ 4       | 24.11.2021   | Rafael Dubois         |  El problema Knapsack
+ 5       | 24.11.2021   | José Lucha Oscar Godoy, Rafael Dubois         |Knapsack
+
 
 # Referencias
 <div id='id-ref'/>
