@@ -74,6 +74,7 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
   32       | 17.11.2022   | Promedios de funciones aritméticas.                     |  Apostol, Cap. 3.
   33       | 18.11.2022   | Distribución de números primos.                         |  Apostol.
   34       | 22.11.2022   | Presentación de seminarios.       |  
+  35       | 24.11.2022   | Presentación de seminarios.       |  
 
 
 # Seminario 1
