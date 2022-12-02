@@ -111,11 +111,11 @@ A continuación se listan algunos temas sugeridos para presentación de seminari
 
 **No.**  | **Fecha**    | **Conferencista**                  | **Tópico**                                                                    
 -------- | ------------ | ---------------------------------- | --------------------------------------------------- 
- 1       | 22.11.2021   | Carlos Martínez                    |  El algoritmo de Karatsuba
- 2       | 22.11.2021   | Oscar Godoy                        |  Curvas Elípticas
- 3       | 24.11.2021   | Elder Guzmán                       |  La conjetura de Collatz (3n + 1)
- 4       | 24.11.2021   | Rafael Dubois                      |  La función P de Weierstrass
- 5       | 24.11.2021   | José Lucha                         |  El método RSA
+ 1       | 22.11.2021   | Carlos Martínez                    |  El algoritmo de Karatsuba.  [](projects/A.pdf){:target="_blank"}
+ 2       | 22.11.2021   | Oscar Godoy                        |  Curvas Elípticas. [](projects/A.pdf){:target="_blank"}
+ 3       | 24.11.2021   | Elder Guzmán                       |  La conjetura de Collatz (3n + 1). [](projects/A.pdf){:target="_blank"}
+ 4       | 24.11.2021   | Rafael Dubois                      |  La función P de Weierstrass. [](projects/A.pdf){:target="_blank"}
+ 5       | 24.11.2021   | José Lucha                         |  El método RSA. [](projects/A.pdf){:target="_blank"}
 
 
 # Referencias
